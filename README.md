@@ -3,7 +3,7 @@ Practice of Java Multi-thread
 
 In ImageProcessing.java, I use lambda function with threads to do image processing.
 
-![Screenshot](./resource/Combined_graph.png)
+![Screenshot](./resource/Combined_graph.jpg)
 
 Since we want to know whether adding more threads in the image processing decreases the latency.
 
