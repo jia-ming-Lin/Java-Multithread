@@ -7,6 +7,6 @@ Since we want to know whether adding more threads in the image processing decrea
 
 After doing several experiments, the relationship between number of threads and latency is in the following graph.
 
-![Screenshot](source/Efficiency.png)
+![Screenshot](./resource/Efficiency.png)
 
 
