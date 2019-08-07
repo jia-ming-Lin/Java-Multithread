@@ -1,5 +1,4 @@
 # Java-Multithread
-Practice of Java Multi-thread 
 
 In ImageProcessing.java, I use lambda function with threads to do image processing.
 
